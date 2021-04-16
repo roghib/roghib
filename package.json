@@ -1,9 +1,9 @@
 {
     "name": "roghib",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Build anything with Roghib",
     "author": "Roghib",
-    "email" : "master@roghib.org",
+    "email" : "master@roghib.com",
     "url" : "https://roghib.github.io",
     "license": "MIT",
     "main": "roghib.js",
@@ -20,5 +20,5 @@
     "bugs": {
         "url": "https://github.com/roghib/roghib/issues"
     },
-    "homepage": "https://roghib.github.io/"
+    "homepage": "https://www.roghib.com/"
 }
