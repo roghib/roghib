@@ -4,7 +4,7 @@
 
 Project|Repository Status|License|Support
 ---|---|---|---
-Roghib |[![Copyright][roghibs]][roghib] [![Azure][azures]][azure] [![Build Status][travisci]][travis] [![Docs][docs]][doc] [![Pypi][pepys]][pepy]|[![MIT][mits]][mit]|[![PayPal][paypals]][paypal] 
+Roghib |[![Copyright][roghibs]][roghib] [![Build Status][travisci]][travis] [![Docs][docs]][doc] [![Pypi][pepys]][pepy]|[![MIT][mits]][mit]|[![PayPal][paypals]][paypal] 
 
 <img src="https://raw.githubusercontent.com/roghib/roghib/master/ok.png" align="right" height="86" width="86"/>
 
