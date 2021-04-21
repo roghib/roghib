@@ -1,0 +1,25 @@
+# Build a general Node.js project with npm.
+trigger:
+  branches:
+    include:
+    - master
+  paths:
+    include:
+    - docs/*
+    exclude:
+    - .github/*
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: NodeTool@0
+  inputs:
+    versionSpec: '14.x'
+    checkLatest: true
+
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: |
+      echo 'Hello world'
