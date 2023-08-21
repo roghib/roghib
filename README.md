@@ -29,5 +29,5 @@ Emperor of the universe, increase your maximum level and gain a great amount of 
 [patreon]: https://www.patreon.com/join/roghib?
 [docs]: https://readthedocs.org/projects/roghib/badge/?version=latest
 [doc]: https://roghib.readthedocs.io/en/latest/?badge=latest
-[pepys]: https://pepy.tech/badge/roghib
+[pepys]: https://static.pepy.tech/badge/roghib
 [pepy]: https://pepy.tech/project/roghib
