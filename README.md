@@ -9,7 +9,7 @@ Roghib |[![Copyright][roghibs]][roghib] [![Azure][azures]][azure] [![Docs][docs]
 <img src="https://raw.githubusercontent.com/roghib/roghib/master/ok.png" align="right" height="86" width="86"/>
 
 # 𝓇σgнiв
-Emperor of the universe, increase your maximum level and gain a great amount of power.
+Jack of all trades, increase your maximum level and gain a great amount of power.
 
 
 [roghibs]: https://raw.githubusercontent.com/roghib/roghib.github.io/master/roghib.svg
